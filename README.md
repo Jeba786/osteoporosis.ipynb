@@ -1,1 +1,1 @@
-# osteoporosis.ipynb
+# osteoporosis disease prediction 
